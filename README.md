@@ -24,10 +24,10 @@ Usage: scanner FILE or scanner DIR
 ```
 Option 			Meaning
 -f<format> 		Output format, could be: plain (default), spdx, spdx_xml or cyclonedx
--o<file_name>	Save the scan results in the specified file\n");
--l<file_name> 	Set logs filename
--d				Enable debug messages
--t 				Enable trace messages, enable to see post request to the API
+-o<file_name>		Save the scan results in the specified file
+-l<file_name> 		Set logs filename
+-d			Enable debug messages
+-t 			Enable trace messages, enable to see post request to the API
 ```
 
 Usage example: 

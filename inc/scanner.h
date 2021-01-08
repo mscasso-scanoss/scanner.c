@@ -22,7 +22,7 @@
 
 
 
-#ifndef __SCANNNER_H
+#ifndef __SCANNER_H
 #define __SCANNER_H
 
 #include <stdbool.h>
